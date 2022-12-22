@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReduxApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# redux-api
+Este es el repositorio de William Filiberto May Couoh del equipo dual, para realizar llamado a Api de pokemon.
+>>>>>>> 0438b1f9f7954a5a3a33dcd46b444015752185c7
